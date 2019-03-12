@@ -1,0 +1,9 @@
+resource links:
+
+https://github.com/depop
+https://github.com/depop/popget
+https://github.com/letgoapp
+https://github.com/mercari
+https://github.com/philipperemy/mercari-python-api
+figure out a scraper for offerup
+
